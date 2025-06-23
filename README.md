@@ -32,7 +32,8 @@ A simple Instagram-like Android application built with Kotlin and Firebase. This
 
 ### Home Screen
 ![Home Screen](screenshots/home.png)
-![Screenshot 2025-06-23 154345](https://github.com/user-attachments/assets/33a591f8-9c22-4d47-9e7c-8fe17fb04db6)
+![Uploading home screen.png…]()
+
 
 
 ---
