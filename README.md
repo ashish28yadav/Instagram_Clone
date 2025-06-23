@@ -21,17 +21,14 @@ A simple Instagram-like Android application built with Kotlin and Firebase. This
 ![Screenshot 2025-06-23 154315](https://github.com/user-attachments/assets/f674927c-45b9-4625-9625-2d6d38fc3d87)
 
 ### Login Screen
-![Login Screen](screenshots/login.png)
 ![Screenshot 2025-06-23 154411](https://github.com/user-attachments/assets/3038ad9f-a7c4-42ff-8d49-6f158a1144af)
 
 
 ### Sign Up Screen
-![Sign Up Screen](screenshots/signup.png)
 ![Screenshot 2025-06-23 154345](https://github.com/user-attachments/assets/a5dab58c-f928-4512-a7a7-c7b248557fe9)
 
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
 ![home screen](https://github.com/user-attachments/assets/25a796c1-0ba7-49d5-8d01-795c10b84685)
 
 
